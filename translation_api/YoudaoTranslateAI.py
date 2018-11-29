@@ -8,7 +8,7 @@ import os
 from json import JSONDecodeError
 
 
-class Youdao:
+class YoudaoTranslateAI:
 
     def __init__(self, appKey, secretKey):
         self.appKey = appKey
