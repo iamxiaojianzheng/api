@@ -97,3 +97,18 @@ if __name__ == '__main__':
     # result = youdao.translate_word('apple')
     youdao.translate_words_from_file('文件路径')
     # print(result)
+
+'''
+中文	    zh-CHS
+日文	    ja
+英文	    EN
+韩文	    ko
+法文	    fr
+俄文	    ru
+葡萄牙文	pt
+西班牙文	es
+越南文	    vi
+德文	    de
+阿拉伯文    ar
+印尼文	    id
+'''
